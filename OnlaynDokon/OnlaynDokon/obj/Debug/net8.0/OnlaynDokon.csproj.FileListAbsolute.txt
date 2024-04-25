@@ -1,0 +1,15 @@
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\bin\Debug\net8.0\OnlaynDokon.exe
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\bin\Debug\net8.0\OnlaynDokon.deps.json
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\bin\Debug\net8.0\OnlaynDokon.runtimeconfig.json
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\bin\Debug\net8.0\OnlaynDokon.dll
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\bin\Debug\net8.0\OnlaynDokon.pdb
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\OnlaynDokon.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\OnlaynDokon.AssemblyInfoInputs.cache
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\OnlaynDokon.AssemblyInfo.cs
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\OnlaynDokon.csproj.CoreCompileInputs.cache
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\OnlaynDokon.sourcelink.json
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\OnlaynDokon.dll
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\refint\OnlaynDokon.dll
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\OnlaynDokon.pdb
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\OnlaynDokon.genruntimeconfig.cache
+C:\GitOnlaynDokon\OnlaynDokon\OnlaynDokon\obj\Debug\net8.0\ref\OnlaynDokon.dll
